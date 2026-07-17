@@ -1,0 +1,9 @@
+{
+  "name": "Bali Guide",
+  "short_name": "Bali Guide",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f8f7",
+  "theme_color": "#0d6b63",
+  "description": "A bilingual curated Bali travel guide."
+}
